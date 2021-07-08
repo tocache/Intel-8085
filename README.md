@@ -1,5 +1,6 @@
 # Intel-8085-processor
 A repository for the Intel 8085 processor, intended for Embedded System design and electronics applications
+<img src="KL_Intel_P8085AH.jpg"><br>
 
 Reference links:
 - Andreas Spiess 8085 Assembler program examples: https://github.com/SensorsIot/8085-Computer
