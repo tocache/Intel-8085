@@ -88,7 +88,7 @@ LAZO:	LDAX B
 	JNZ LAZO
 	RET
 
-LCDMSG2: MVI A, 01H	;Mensaje Hola mundo!
+LCDMSG2: MVI A, 01H	;Mensaje Intel8085 inside
 	OUT 43H
 	MVI E, 10H
 	LXI H, TABLA2
