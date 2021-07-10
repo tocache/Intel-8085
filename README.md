@@ -18,3 +18,6 @@ Videos:
 - Simple testing circuit for 8085: https://www.youtube.com/watch?v=OtQ-KTKzSHY
 - Simple 8085 platform with 8155 part1: (Andreas Spiess): https://www.youtube.com/watch?v=45ELCAVb5XQ
 - Simple 8085 platform with 8155 part1: (Andreas Spiess): https://www.youtube.com/watch?v=qizt0ePFEZA
+
+LCD 16x2 HD44780:
+- LCD Initialization: http://web.alfredstate.edu/faculty/weimandn/lcd/lcd_initialization/lcd_initialization_index.html
