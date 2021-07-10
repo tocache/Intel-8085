@@ -19,18 +19,18 @@ INIT:	MVI A,0EH
 	CALL LCDL2	;Cursor en la segunda linea
 	CALL LCDMSG2	;Imprime Intel8085 inside en la seguna linea
 
-LOOP:	MVI E, 0EH
-	LXI H, AUTO
+LOOP:	MVI E, 0EH	;Rutina del auto fantastico
+	LXI H, AUTO	;Obtengo la direccion de la cadena
 	MOV B, H
-	MOV C, L
-LAZO3:	LDAX B
-	OUT 60H
-	CALL DELAY
-	INX B
-	NOP
-	DCR E
-	JNZ LAZO3
-	JMP LOOP
+	MOV C, L	;Paso previo para poder obtener el primer dato de la cadena
+LAZO3:	LDAX B		;Obtengo el primer dato de la cadena
+	OUT 60H		;Envío dato a PA del 8255
+	CALL DELAY	;Rutina de retardo
+	INX B		;Incremento posición para apuntar al segundo dato de la cadena
+	NOP		;No operación (no necesario)
+	DCR E		;Decremento registro E
+	JNZ LAZO3	;Pregunto si registro E no es cero luego del decremento, si es cierto salto a LAZO3
+	JMP LOOP	;Viene aqui cuando no se cumplo con el salto condicional anterior
 
 LCDINIT:	MVI A,00H	;Rutina de inicialización para el LCD
 	OUT 43H		;RS=0,RW=0,E=0
