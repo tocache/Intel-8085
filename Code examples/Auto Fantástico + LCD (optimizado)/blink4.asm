@@ -1,12 +1,13 @@
 	.CR 8085	To load the 8085 cross overlay
 
 	.TF blink4.hex,INT,32
-	.OR $0000
 
+	.OR $0800
 TABLA: .DB "Hola mundo!"
 TABLA2: .DB "Intel8085 inside"
 AUTO: .DB 01H,02H,04H,08H,10H,20H,40H,80H,40H,20H,10H,08H,04H,02H
 
+	.OR $0000
 INIT:	MVI A,0EH
 	OUT 40H		;8155 con PB y PC como salidas
 	MVI A,8FH
