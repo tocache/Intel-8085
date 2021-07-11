@@ -1,6 +1,6 @@
 # Intel-8085-processor
 A repository for the Intel 8085 processor, intended for Embedded System design and electronics applications
-<img src="/images/KL_Intel_P8085AH.jpg"><br>
+<img src="/images/KL_Intel_P8085AH.jpg" width=85% height=85%><br>
 <img src="/images/8085.PNG" width=85% height=85%><br>
 
 Reference links:
