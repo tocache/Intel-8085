@@ -1,1 +1,1 @@
-igames folder
+images folder
