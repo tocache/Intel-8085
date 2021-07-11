@@ -17,6 +17,7 @@ Assembly programming:
 - Andreas Spiess 8085 Assembler program examples: https://github.com/SensorsIot/8085-Computer
 - Intel 8080/8085 Assembly Language Programming Manual: https://myethiolectures.files.wordpress.com/2015/06/programming-8085.pdf
 - Assembly Language Programming of 8085 PDF: https://myethiolectures.files.wordpress.com/2015/06/programming-8085.pdf
+- Instruction Set of 8085: https://www.javatpoint.com/instruction-set-of-8085
 
 Videos:
 - Simple testing circuit for 8085: https://www.youtube.com/watch?v=OtQ-KTKzSHY
