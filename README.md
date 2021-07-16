@@ -13,6 +13,10 @@ Software:
 - SB-Assembler 3 (cross assembler for the 8085): https://www.sbprojects.net/sbasm/index.php
 - Python (needed for SB-Assembler 3): https://www.python.org/
 
+
+Intel 8085 microprocessor related:
+- Interrupts on 8085: http://dylucknow.weebly.com/uploads/6/7/3/1/6731187/8085_interrupts.pdf
+
 Assembly programming:
 - Andreas Spiess 8085 Assembler program examples: https://github.com/SensorsIot/8085-Computer
 - Intel 8080/8085 Assembly Language Programming Manual: http://bitsavers.trailing-edge.com/components/intel/MCS80/9800301D_8080_8085_Assembly_Language_Programming_Manual_May81.pdf
