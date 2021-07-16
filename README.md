@@ -23,6 +23,7 @@ Assembly programming:
 - Intel 8080/8085 Assembly Language Programming Manual: http://bitsavers.trailing-edge.com/components/intel/MCS80/9800301D_8080_8085_Assembly_Language_Programming_Manual_May81.pdf
 - Assembly Language Programming of 8085 PDF: https://myethiolectures.files.wordpress.com/2015/06/programming-8085.pdf
 - Instruction Set of 8085: https://www.javatpoint.com/instruction-set-of-8085
+- Apuntes Del Microprocesador 8085 Lenguaje Assembler: https://www.scribd.com/document/193365760/Apuntes-del-microprocesador-8085-lenguaje-assembler
 
 Videos:
 - Simple testing circuit for 8085: https://www.youtube.com/watch?v=OtQ-KTKzSHY
