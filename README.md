@@ -8,11 +8,11 @@ Reference links:
 Hardware:
 - Simple testing circuit for 8085 (freerun): http://saundby.com/electronics/8085/freerun.shtml
 - Andreas Spiess 8085 platform: https://easyeda.com/editor#id=85b1b86d482748c79392f254dd90f14a|6faec151f2224e999d9fba18e1097c8b
+- Professor Diwakar Yagyasen microprocessor lecture notes: http://dylucknow.weebly.com/microprocessor.html
 
 Software:
 - SB-Assembler 3 (cross assembler for the 8085): https://www.sbprojects.net/sbasm/index.php
 - Python (needed for SB-Assembler 3): https://www.python.org/
-
 
 Intel 8085 microprocessor related:
 - Interrupts on 8085: http://dylucknow.weebly.com/uploads/6/7/3/1/6731187/8085_interrupts.pdf
