@@ -15,6 +15,7 @@ Software:
 - Python (needed for SB-Assembler 3): https://www.python.org/
 
 Intel 8085 microprocessor related:
+- Wikipedia. Intel 8085: https://en.wikipedia.org/wiki/Intel_8085
 - Diwakar Yagyasen. Interrupts on 8085: http://dylucknow.weebly.com/uploads/6/7/3/1/6731187/8085_interrupts.pdf
 - Al-Najaf Technical College. Interupts: https://cnj.atu.edu.iq/wp-content/uploads/2019/09/lect11-interrupt.pdf
 
