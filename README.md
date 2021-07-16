@@ -15,7 +15,8 @@ Software:
 - Python (needed for SB-Assembler 3): https://www.python.org/
 
 Intel 8085 microprocessor related:
-- Interrupts on 8085: http://dylucknow.weebly.com/uploads/6/7/3/1/6731187/8085_interrupts.pdf
+- Diwakar Yagyasen. Interrupts on 8085: http://dylucknow.weebly.com/uploads/6/7/3/1/6731187/8085_interrupts.pdf
+- Al-Najaf Technical College. Interupts: https://cnj.atu.edu.iq/wp-content/uploads/2019/09/lect11-interrupt.pdf
 
 Assembly programming:
 - Andreas Spiess 8085 Assembler program examples: https://github.com/SensorsIot/8085-Computer
