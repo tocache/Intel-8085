@@ -18,7 +18,7 @@ Intel 8085 microprocessor related:
 - Wikipedia. Intel 8085: https://en.wikipedia.org/wiki/Intel_8085
 - Diwakar Yagyasen. Interrupts on 8085: http://dylucknow.weebly.com/uploads/6/7/3/1/6731187/8085_interrupts.pdf
 - Al-Najaf Technical College. Interupts: https://cnj.atu.edu.iq/wp-content/uploads/2019/09/lect11-interrupt.pdf
-- 8085 Projects The Compendium: http://8085projects.in/
+- Dhananjay V. Gadre (NIST), 8085 Projects The Compendium: http://8085projects.in/
 
 Assembly programming:
 - Andreas Spiess 8085 Assembler program examples: https://github.com/SensorsIot/8085-Computer
